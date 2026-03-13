@@ -27,7 +27,7 @@ if (!basePath) {
 }
 
 export default defineConfig({
-  base: basePath,
+  base: "/DSA-Patterns/",
   plugins: [
     react(),
     tailwindcss(),
