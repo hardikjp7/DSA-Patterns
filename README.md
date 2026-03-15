@@ -2,6 +2,8 @@
 
 A React + Vite app that teaches 16 essential DSA patterns with live animated visualizations, C++ and Python code examples, and a progress tracker.
 
+![App Screenshot](app.png)
+
 ## Features
 
 - 16 DSA patterns: Sliding Window, Two Pointers, Fast & Slow Pointers, Merge Intervals, Cyclic Sort, Binary Search, Tree BFS/DFS, Two Heaps, Subsets/Backtracking, Modified Binary Search, Top K Elements, K-way Merge, Dynamic Programming, Graph BFS/DFS, Monotonic Stack
